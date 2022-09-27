@@ -63,10 +63,10 @@
             <i class="fa-solid fa-code"></i><a class="linkAtividade" href="./Aula3Palindromo.html">Aula 03 - Palíndromo</a><br>
         </div>
         <div class="atividade">
-            <i class="fa-solid fa-code"></i><a class="linkAtividade" href="#"></a><br>
+            <i class="fa-solid fa-code"></i><a class="linkAtividade" href="./Aula4FormCarro.html">Aula 04 - Form.Carro</a><br>
         </div>
         <div class="atividade">
-            <i class="fa-solid fa-code"></i><a class="linkAtividade" href="#"></a><br>
+            <i class="fa-solid fa-code"></i><a class="linkAtividade" href="./AtividadeReact.html">Atividade React</a><br>
         </div>
     </div>
     <script src="https://kit.fontawesome.com/5b174b52f1.js" crossorigin="anonymous"></script>
